@@ -1,1 +1,1 @@
-/var/runit/sv/mariadb.log
+/run/runit/sv/mariadb.log
